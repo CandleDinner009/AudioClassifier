@@ -1,4 +1,7 @@
-﻿# AudioClassifier
+AudioClassifier2.ipynb is the updated project, we have left the previous one (AudioClassification.ipynb) for reference.
+ 
+ # AudioClassifier
+ 
 Abstract:
 
 This project aims to build a machine learning model to accurately identify capuchin bird calls on a virtual notebook using tinyML. We aim to collect and capture data for training, transfer learning, re-training, deploying to a simulation environment.
